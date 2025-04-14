@@ -4,6 +4,7 @@ API criada para atividade de desenvolvimento backend com Spring Boot.
 
 ## Integrantes da dupla:
 - 01714045 Daniel Simplicio Pereira Torquato
+- 01694061 Caio Santana de Morais
 
 ## Funcionalidades:
 - Criar pessoa (POST /pessoas)
