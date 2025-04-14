@@ -11,3 +11,9 @@ public class GerenciamentoPessoasApplication {
 	}
 
 }
+com.universidade.gerenciamentopessoas
+├── controller
+├── dto
+├── entity
+├── repository
+
